@@ -11,7 +11,7 @@ void main() {
 
 //EJECUTA flutter run
 
-//Creamos carpeta
+//Creamos carpeta build
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
