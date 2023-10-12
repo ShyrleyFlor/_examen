@@ -9,6 +9,8 @@ void main() {
 
 // las tablas que vamos a utilizar son ropero ropas y 2 vistas uno listar y el otro agregar
 
+//EJECUTA flutter run
+
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
