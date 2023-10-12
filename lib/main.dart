@@ -7,6 +7,8 @@ void main() {
 //hola MAYLEM 
 // Hola cualquier cosa
 
+// las tablas que vamos a utilizar son ropero ropas y 2 vistas uno listar y el otro agregar
+
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
