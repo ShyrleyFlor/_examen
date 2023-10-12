@@ -11,6 +11,7 @@ void main() {
 
 //EJECUTA flutter run
 
+// This widget is the root of your application.
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
